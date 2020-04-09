@@ -11,6 +11,8 @@ To learn more about the background to the project and where we're up to, click o
 As an open source project you can be involved as a full participant. For a brief outline of what this means, take a look at [this "about" page over at Open Source Malaria](https://github.com/OpenSourceMalaria/About-StartHere-FAQ) or [read about the six laws that summarise how it all works](https://onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565).
 
 
+------------------------------------------------------------------------------------------------
+
 When submitting physical samples of compounds (synthetic or isolated from natural sources), please provide the following information:
 1. Source of compounds- lab book or registry numbers
 2. Characterization- elemental analysis, LC-MS, other evidence of purity, spectral characterization-NMR, IR, etc
