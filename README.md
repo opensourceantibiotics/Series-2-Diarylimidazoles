@@ -10,6 +10,8 @@ To learn more about the background to the project and where we're up to, click o
 
 As an open source project you can be involved as a full participant. For a brief outline of what this means, take a look at [this "about" page over at Open Source Malaria](https://github.com/OpenSourceMalaria/About-StartHere-FAQ) or [read about the six laws that summarise how it all works](https://onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565).
 
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSf4UieL5pRQqN5rOL4q-t57qcpJhHG_jqMXV774FPUJBmnBbQ/viewform) to sign up for our newsletter.
+
 
 ------------------------------------------------------------------------------------------------
 
