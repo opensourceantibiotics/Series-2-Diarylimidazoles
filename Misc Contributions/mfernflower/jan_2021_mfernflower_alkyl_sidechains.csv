@@ -1,0 +1,3 @@
+name,smiles,clogp_swiss_adme,fluorochem_product_number
+Isobutyl,CC(C)CC1=C(N=C2CCCN12)C1=NC=CC=C1,2.65,045297
+Isoamyl,CC(C)CCC1=C(N=C2CCCN12)C1=NC=CC=C1,2.98,219704
