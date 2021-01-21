@@ -1,0 +1,7 @@
+Molecule Name,SMILES,Batch Name,AstraZeneca ADME Measurements: Aqueous Solubility (uM),AstraZeneca ADME Measurements: Human PPB (%),AstraZeneca ADME Measurements: Human PPB Comments,AstraZeneca ADME Measurements: HLM CLint (uL/min/mg protein),AstraZeneca ADME Measurements: Rat Hepatocyte CLint (uL/min/10x6 cells),AstraZeneca ADME Measurements: Rat Hepatocyte Comments,AstraZeneca ADME Measurements: LogD 7.4
+NEU-0006496,COC1=CC2=NC(=C(N2C=C1)C1=CC=CC=C1)C1=NC=CC=C1,AA-001,79,97.2,,224,23.9,,3.1
+NEU-0006463,FC1=CC=C(C=C1)C1=C(N=C2C=CC=CN12)C1=NC=CC=C1,AA-001,178,,,168,49.8,,3
+NEU-0006454,COC1=CC2=NC(=C(N2C=C1)C1=CC=C(F)C=C1)C1=NC=CC=C1,AA-001,85,94.6,,> 300,25.1,,2.9
+NEU-0006416,COC1=CC2=NC(=C(N2C=C1)C1=NC(Cl)=CC=C1)C1=NC=CC=C1,AA-001,37,96.5,,124,12.9,,2.5
+NEU-0006414,COC1=CC2=NC(=CN2C=C1)C1=NC=CC=C1,AA-001,723,79,,> 300,52.9,,2.2
+NEU-0006109,COC1=CC2=NC(C3=CN(C)N=C3)=C(NC3=C(F)C=CC=C3)N2C=C1,AA-001,22,,"Low recovery,Unstable in plasma",< 3,82.3,,
