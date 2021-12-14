@@ -1,0 +1,13 @@
+OSA ID,Molecule Name,SMILES,Batch Name,Aqueous Solubility (uM),Aqueous solubility Comments,Human PPB (%),Human PPB Comments,HLM CLint (uL/min/mg protein),HLM Comments,Rat Hepatocyte CLint (uL/min/10x6 cells),Rat Hepatocyte Comments,LogD 7.4,LogD comments
+OSA_001001,NEU-0007244,COC1=CC=CN2C1=NC(=C2N(C)C1=CC=C(F)C=C1)C1=CC=CC=N1,AA-001,26,,97.4,,65.9,,> 300,Compound detected only in first two samples,3.5,
+OSA_001002,NEU-0007243,[2H]C([2H])([2H])N(C1=C(N=C2C=CC=CN12)C1=CC=CC=N1)C1=CC=C(F)C=C1,AA-001,116,,96,,138,,> 300,Compound detected only in first two samples,2.6,
+OSA_001003,NEU-0007242,CN(C1=C(N=C2C=CC(Br)=CN12)C1=CC=CC=N1)C1=CC=C(F)C=C1,AA-001,4,,99.82,,61.6,,> 300,Compound detected only in first two samples,4.2,
+OSA_001004,NEU-0007241,CSC1=CN2C(C=C1)=NC(=C2N(C)C1=CC=C(F)C=C1)C1=CC=CC=N1,AA-001,7,,99.46,,> 300,Compound detected only in first two samples,> 300,Compound detected only in first two samples,4.5,
+OSA_001005,NEU-0007240,CN(C1=C(N=C2C=CC=C(F)N12)C1=CC=CC=N1)C1=CC=C(F)C=C1,AA-001,64,,96.5,,79.3,,> 300,Compound detected only in first two samples,1.8,
+OSA_001006,NEU-0007239,CN(C1=C(N=C2N1C=CC=C2F)C1=CC=CC=N1)C1=CC=C(F)C=C1,AA-001,26,,96.6,,127,,209,Compound detected only in first two samples,3.3,
+OSA_001007,NEU-0007237,COC1=CC=NC(=C1)C1=C(N(C)C2=CC=C(F)C=C2)N2C=CC=CC2=N1,AA-001,26,,97.5,,214,,> 300,Compound detected only in first two samples,3.4,
+OSA_001019,NEU-0007204,FC1=CC=C(NCC2=C(N=C3C=CC=CN23)C2=CC=CC=N2)C=C1,AA-001,,Failed to create analytical method,,Poor MS response,,Failed to create analytical method,,Failed to create analytical method,,Failed to create analytical method
+OSA_001000,NEU-0007134,COC1=CC2=NC(=C(N(C)C3=CC=C(F)C=C3)N2C=C1)C1=CC(OC)=CC=N1,AA-001,12,,> 96.7,,51.2,,> 300,,3.1,
+OSA_000999,NEU-0007128,COC1=CN2C(C=C1)=NC(=C2N(C)C1=CC=C(F)C=C1)C1=CC=C(OC)C=N1,AA-001,27,,99.37,,261,,> 300,Compound detected only in first two samples,3.7,
+OSA_000998,NEU-0007123,COC1=CN2C(C=C1)=NC(=C2N(C)C1=CC(F)=CC(F)=C1)C1=CC=CC=N1,AA-001,8,,99.15,,100,,> 300,,4,
+OSA_000984,NEU-0006675,FC1=CC=C(NC2=C(N=C3SC=CN23)C2=NC=CC=C2)C=C1,"AA-001, AA-002","54, 76",,"98.6, 97.7",,270,,"> 300, > 300","Compound detected only in first two samples, Compound detected only in first two samples","0.9, 1",
