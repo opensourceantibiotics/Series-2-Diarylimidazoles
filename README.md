@@ -15,6 +15,8 @@ To learn more about the background to the project and where we're up to, click o
 
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSf4UieL5pRQqN5rOL4q-t57qcpJhHG_jqMXV774FPUJBmnBbQ/viewform) to sign up for our newsletter.
 
+If you're participating and would like to advertise this fact, or if you like the project and want to promote it, you can use [this resource](https://github.com/opensourceantibiotics/OSA_Tech_Ops/issues/1).
+
 [Click here](https://github.com/opensourceantibiotics/Series-2-Diarylimidazoles/wiki/Submissions%2C-Resources%2C-and-Data) to find out how to donate compound samples for testing, or to submit proposed compounds for synthesis.
 
 Unless otherwise stated, all content in Open Source Antibiotics should be taken to be governed by the Creative Commons CC-BY-4.0 licence.
